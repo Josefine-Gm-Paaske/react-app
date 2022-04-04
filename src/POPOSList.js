@@ -5,7 +5,7 @@ import POPOSSpace from './POPOSSpace';
 
 function POPOSList() {
     return (
-      //List of pictures. Name, Describti
+      //List of pictures. Name, description, image are props
       <div className='POPOSList'>
         <POPOSSpace
         name="Drone"
