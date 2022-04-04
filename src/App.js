@@ -2,7 +2,7 @@
  * Paths begins with './nameOfPath.'
  */
 import './App.css';
-import POPOSList from './POPOList';
+import POPOSList from './POPOSList';
 /**
  * 
  * @returns App is the top-level component in the project
