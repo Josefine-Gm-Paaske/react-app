@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+/**
+ * This method makes sure, that the component is rendered in HTML
+ * Index.js is almost never changed
+ */
 ReactDOM.render(
   <React.StrictMode>
     <App />

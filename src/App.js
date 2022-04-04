@@ -1,6 +1,12 @@
+/**
+ * Paths begins with './nameOfPath.fileType'
+ */
 import logo from './logo.svg';
 import './App.css';
-
+/**
+ * 
+ * @returns App is the top-level component in the project
+ */
 function App() {
   return (
     <div className="App">
