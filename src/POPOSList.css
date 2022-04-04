@@ -15,3 +15,10 @@
 		grid-template-columns: 1fr 1fr;
 	}
 }
+
+/* Small screens mobile */
+@media only screen and (max-width: 700px) {
+	.POPOSList {
+		grid-template-columns: 1fr;
+	}
+}
