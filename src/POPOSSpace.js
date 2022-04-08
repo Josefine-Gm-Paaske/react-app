@@ -1,6 +1,6 @@
 // src/Project.js
 
-import React from 'react'
+import React from 'react';
 
 function POPOSSpace(props) {
   const { name, image, description } = props
@@ -11,7 +11,7 @@ function POPOSSpace(props) {
       height="300"
       alt="..."/>
       <h1>{name}</h1>
-      <div>{description}</div>
+      <div style={{margin: 2 + 'em'}}  id="description">{description}</div>
     </div>
   )
 }

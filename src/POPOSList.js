@@ -6,7 +6,7 @@ import POPOSSpace from './POPOSSpace';
 function POPOSList() {
     return (
       //List of pictures. Name, description, image are props
-      <div className='POPOSList'>
+      <div className='POPOSList'> 
         <POPOSSpace
         name="Drone"
         description="Drone - a drone does not have any human pilot, crew or passengers on board. The drone may operate under remote control - often by a human as the operator. Drones in Denmark are classified and depending on the class, a driver's licence is needed by law."

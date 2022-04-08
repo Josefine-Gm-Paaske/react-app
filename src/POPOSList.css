@@ -2,8 +2,7 @@
 
 .POPOSList {
     width: calc(100% - 80px);
-    margin-top: 20px;
-    margin-bottom: 20px;
+  margin: 1cm;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     padding: 0.95cm;
